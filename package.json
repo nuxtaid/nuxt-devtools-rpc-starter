@@ -60,7 +60,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.43.0",
-    "@nuxt/module-builder": "^0.5.1",
+    "@nuxt/module-builder": "^0.8.0",
     "changelogen": "^0.5.5",
     "eslint": "8.49.0",
     "nuxt": "^3.7.3"
