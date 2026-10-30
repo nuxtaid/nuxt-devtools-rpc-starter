@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "@nuxt/devtools-kit": "^0.8.4",
-    "@nuxt/devtools-ui-kit": "^0.8.4",
+    "@nuxt/devtools-ui-kit": "^4.0.0",
     "@nuxt/kit": "^3.7.3",
     "@vueuse/core": "^10.4.1",
     "defu": "^6.1.2",
